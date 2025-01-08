@@ -12,34 +12,6 @@ namespace Misoli_7
     {
         static void Main(string[] args)
         {
-            //string input = Console.ReadLine();
-            //char[] digits = input.ToCharArray();
-            //Array.Sort(digits); // Сортировка по возрастанию
-            //string sortedNumber = new string(digits);
-            //Console.WriteLine(sortedNumber);
-
-            //int number = int.Parse(Console.ReadLine());
-            //List<int> digits = new List<int>();
-
-            //// Извлечение цифр числа
-            //while (number > 0)
-            //{
-            //    digits.Add(number % 10); // Берем последнюю цифру
-            //    number /= 10;           // Убираем последнюю цифру
-            //}
-
-            //// Сортировка цифр
-            //digits.Sort(); // Сортировка по возрастанию
-
-            //// Сборка числа из отсортированных цифр
-            //int sortedNumber = 0;
-            //foreach (int digit in digits)
-            //{
-            //    sortedNumber = sortedNumber * 10 + digit; // Добавляем цифру к числу
-            //}
-
-            //Console.WriteLine(sortedNumber);
-
             string numberStr = Console.ReadLine();
             int sumOfDigits = 0;
             int productOfDigits = 1;
