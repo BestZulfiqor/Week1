@@ -1,0 +1,14 @@
+C:\Users\Admin\Desktop\C#\Misoli_7\bin\Debug\Misoli_7.exe.config
+C:\Users\Admin\Desktop\C#\Misoli_7\bin\Debug\Misoli_7.exe
+C:\Users\Admin\Desktop\C#\Misoli_7\bin\Debug\Misoli_7.pdb
+C:\Users\Admin\Desktop\C#\Misoli_7\obj\Debug\Misoli_7.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\C#\Misoli_7\obj\Debug\Misoli_7.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\C#\Misoli_7\obj\Debug\Misoli_7.exe
+C:\Users\Admin\Desktop\C#\Misoli_7\obj\Debug\Misoli_7.pdb
+C:\Users\Admin\Desktop\C#\Week1\Misoli_7\bin\Debug\Misoli_7.exe.config
+C:\Users\Admin\Desktop\C#\Week1\Misoli_7\bin\Debug\Misoli_7.exe
+C:\Users\Admin\Desktop\C#\Week1\Misoli_7\bin\Debug\Misoli_7.pdb
+C:\Users\Admin\Desktop\C#\Week1\Misoli_7\obj\Debug\Misoli_7.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\C#\Week1\Misoli_7\obj\Debug\Misoli_7.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\C#\Week1\Misoli_7\obj\Debug\Misoli_7.exe
+C:\Users\Admin\Desktop\C#\Week1\Misoli_7\obj\Debug\Misoli_7.pdb
